@@ -1,0 +1,22 @@
+{
+  "name": "matasree-landing",
+  "version": "1.0.0",
+  "description": "Landing page for matasreesuper.com - Coming Soon April 2026",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 8000",
+    "build": "echo 'No build required - static site'",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "landing-page",
+    "supermarket",
+    "ecommerce",
+    "coming-soon"
+  ],
+  "author": "Matasree Team",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
