@@ -1,0 +1,7 @@
+[build]
+  # publish directory: site root
+  publish = "."
+
+[dev]
+  # optional: local dev server settings
+  port = 8888
